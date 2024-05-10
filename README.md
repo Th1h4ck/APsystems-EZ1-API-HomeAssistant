@@ -1,4 +1,4 @@
-# APsystems EZ1 - Home Assistant Integration
+# APsystems EZ1 - Home Assistant Integration - Th1h4ck
 
 ## Overview
 
